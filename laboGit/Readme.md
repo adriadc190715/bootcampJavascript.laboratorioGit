@@ -1,5 +1,7 @@
  
 https://github.com/adriadc190715/bootcampJavascript.laboratorioGit/blob/master/laboGit/pantallazos/Picture1.png
+https://raw.githubusercontent.com/adriadc190715/bootcampJavascript.laboratorioGit/blob/master/laboGit/pantallazos/Picture1.png
+
 
 
 1 Creo repositorio en Local bootcampJavascript
